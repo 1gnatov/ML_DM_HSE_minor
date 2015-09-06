@@ -1,5 +1,3 @@
-__author__ = 'yorko'
-
 n = int(input())
 
 def sum_factorials(n):
