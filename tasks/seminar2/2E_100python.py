@@ -1,1 +1,1 @@
-print(100 * 'A')
+print(100 * 'Python')

@@ -1,1 +1,1 @@
-__author__ = 'yorko'
+print(100 * 'A')

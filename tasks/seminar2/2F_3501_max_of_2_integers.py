@@ -1,6 +1,4 @@
-__author__ = 'yorko'
+a = int(input())
+b = int(input())
 
-a = input()
-b = input()
-
-print max(a, b)
+print(max(a, b))
