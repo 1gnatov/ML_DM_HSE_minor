@@ -1,0 +1,3 @@
+Adrianov, 25, 30000, artist
+Belkin, 42, 4000, programmer
+Koltunov, 32, 100, sportsman 
