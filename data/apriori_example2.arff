@@ -1,0 +1,14 @@
+@relation supermarket
+@attribute 'apple' { t}
+@attribute 'biscuits' { t}
+@attribute 'banana' { t}
+@attribute 'cottage_cheese' { t}
+@attribute 'meat' { t}
+@attribute 'nuts' { t}
+@attribute 'wine' { t}
+@data
+?,t,?,t,?,t,?
+t,?,t,t,?,t,?
+t,t,?,t,t,?,t
+?,t,t,t,t,?,t
+?,t,t,?,t,?,?

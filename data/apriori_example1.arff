@@ -1,0 +1,12 @@
+@relation supermarket
+@attribute 'bread' { t}
+@attribute 'milk' { t}
+@attribute 'cheese' { t}
+@attribute 'beer' { t}
+@attribute 'juice' { t}
+@data
+t,t,t,t,?
+?,t,t,t,t
+?,t,t,?,?
+?,t,t,t,?
+t,?,t,t,t

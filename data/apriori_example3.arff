@@ -1,0 +1,14 @@
+@relation supermarket
+@attribute 'fish' { t}
+@attribute 'chicken' { t}
+@attribute 'eggs' { t}
+@attribute 'bread' { t}
+@attribute 'sour_cream' { t}
+@attribute 'milk' { t}
+@attribute 'chocolate' { t}
+@data
+?,t,t,t,t,t,?
+t,t,?,t,t,?,t
+?,?,?,t,?,t,t
+t,t,t,?,t,t,t
+?,t,t,t,?,t,t
