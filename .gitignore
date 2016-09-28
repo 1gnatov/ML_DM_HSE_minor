@@ -60,3 +60,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# tutor's tasks
+module1_python_notebooks/private/
