@@ -63,3 +63,7 @@ target/
 
 # tutor's tasks
 module1_python_notebooks/private/
+module2_data_analysis_notebooks/private/
+
+# solutions
+*_solution.ipynb
