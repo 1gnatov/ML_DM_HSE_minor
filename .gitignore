@@ -63,10 +63,10 @@ target/
 .ipynb_checkpoints
 
 # tutor's tasks
-module1_python_notebooks/private/
-module2_data_analysis_notebooks/private/
+*private/
 
 # solutions
 *_solution.ipynb
+
 
 
