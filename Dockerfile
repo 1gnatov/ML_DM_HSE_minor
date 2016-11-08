@@ -12,7 +12,7 @@ RUN git clone --recursive https://github.com/dmlc/xgboost && \
     make -j4 && \
     cd python-package; python setup.py install && cd ../..
 
-# Tensorflow 
+# TensorFlow 
 RUN wget https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.10.0rc0-cp35-cp35m-linux_x86_64.whl && \
     pip install tensorflow-0.10.0rc0-cp35-cp35m-linux_x86_64.whl
 
