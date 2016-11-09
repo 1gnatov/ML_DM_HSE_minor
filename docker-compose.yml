@@ -2,11 +2,11 @@ version: '2'
 
 services:
   jupyter:
-    container_name: hse-ml-minor
-    image: festline/hse-ml-minor
+    container_name: ml_dm_hse_minor
+    image: festline/ml_dm_hse_minor
     working_dir: .
     ports:
       - "8888:8888"
     volumes:
-      - .:/jupyter_notebooks
+      - /Users/yorko/Documents/Machine_Learning/HSE_DM_minor_repo/:/notebooks
 
