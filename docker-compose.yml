@@ -4,9 +4,9 @@ services:
   jupyter:
     container_name: ml_dm_hse_minor
     image: festline/ml_dm_hse_minor
-    working_dir: .
+    working_dir: /notebooks
     ports:
       - "8888:8888"
     volumes:
-      - /Users/yorko/Documents/Machine_Learning/HSE_DM_minor_repo/:/notebooks
+      - .:/notebooks
 
